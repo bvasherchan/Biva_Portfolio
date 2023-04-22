@@ -6,6 +6,7 @@
 This repository is my complete implementation for MSBA Capstone 1 Project.
 
 In this project I used ```Random Forest Classifier model``` to predict the chances that a loan applicant will default.
+
 Below are the materials from this course.
 
 1. [Business Problem Statement](https://github.com/bvasherchan/bvasherchan/blob/main/Business%20Problem%20Statement.docx)
