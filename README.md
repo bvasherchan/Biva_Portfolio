@@ -1,4 +1,3 @@
-# Biva_Portfolio
 # [Classfication Modeling: Home Credit Default Risk](https://bvasherchan.github.io/capstone_repo/)
 **Capstone MSBA - 2023**
 
