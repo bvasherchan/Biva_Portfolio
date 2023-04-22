@@ -10,6 +10,6 @@ Below are the materials from this course.
 
 1. [Business Statement]
 2. [Kaggle Notebook]
-3. [Presentation Slides]
+3. [Presentation Slides](https://github.com/bvasherchan/bvasherchan/blob/main/IS%206812%20-%20Capstone%20Presentation%20PZ%20-%204.8.23.pptx)
 
 
