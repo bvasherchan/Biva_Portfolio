@@ -1,4 +1,4 @@
-# [Classfication Modeling: Home Credit Default Risk](https://bvasherchan.github.io/capstone_repo/)
+# Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
 
 [Jupyter Notebook:](https://bvasherchan.github.io/capstone_repo/)
