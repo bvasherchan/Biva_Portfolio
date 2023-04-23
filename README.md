@@ -1,7 +1,7 @@
 # Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
 
-[Jupyter Notebook:](https://bvasherchan.github.io/capstone_repo/)
+[Github Repo:](https://bvasherchan.github.io/capstone_repo/)
 
 This repository is my complete implementation for MSBA Capstone 1 Project.
 
