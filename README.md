@@ -38,6 +38,6 @@ In this project I used ```Random Forest and Naive Bayes Text Classification mode
 
 Below are the materials from this course.
 1. [R Code](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20Project.Rmd)
-2. [Project Document](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)
+2. [Project Document](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)
 
 
