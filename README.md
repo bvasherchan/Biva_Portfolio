@@ -1,4 +1,4 @@
-# Classfication Modeling: Home Credit Default Risk
+# Random Forest Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
 
 [Github Repo:](https://bvasherchan.github.io/capstone_repo/)
