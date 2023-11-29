@@ -23,6 +23,7 @@ This repository is my complete implementation for MSBA Machine Learning Class Pr
 In this project I used ```XGBoost and Logistic Regression Classifier models``` to predict the probability of customer buying Minute Maid (MM) over Citrus Hill (CH) Orange Juice.
 
 Below are the materials from this course.
-1. [Prject Document](https://github.com/bvasherchan/bvasherchan/blob/main/Final%20Project%20-%20MKTG%206620%20Final.docx)
+1. [Posit Cloud](https://posit.cloud/content/7032095)
+2. [Project Document](https://github.com/bvasherchan/bvasherchan/blob/main/Final%20Project%20-%20MKTG%206620%20Final.docx)
 
 
