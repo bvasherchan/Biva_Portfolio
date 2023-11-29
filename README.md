@@ -47,7 +47,7 @@ Below are the materials from this course.
 
 This repository is my complete implementation for MSBA Algorithm For Business Decisions Class Project.
 
-In this project I used ```Penalized Regression and Topic models``` to find the predictors that have significant influence on the concession sales and suggest ways in which MovieMagic can increase the spending on concessions.
+In this project I used ```Penalized Regression and Topic models``` to analyze what factors drive the concession sales and suggest ways in which MovieMagic can increase the spending on concessions.
 
 Below are the materials from this course.
 1. [Posit Cloud](https://posit.cloud/spaces/437482/content/6879542)
