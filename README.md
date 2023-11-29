@@ -40,4 +40,16 @@ Below are the materials from this course.
 1. [R Code](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20Project.Rmd)
 2. [Project Document](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)
 
+# Penalized Regression Model and Topic Modeling - MovieMagic
+**ALGORITHMS FOR BUSINESS DECISIONS - MSBA Project**
+
+[Github Repo:](https://github.com/bvasherchan/Topic_Modeling)
+
+This repository is my complete implementation for MSBA ALGORITHMS FOR BUSINESS DECISIONS Class Project.
+
+In this project I used ```Penalized Regression and Topic models``` to find the predictors that have significant influence on the concession sales and suggest ways in which MovieMagic can increase the spending on concessions.
+
+Below are the materials from this course.
+1. [Posit Cloud](https://posit.cloud/spaces/437482/content/6879542)
+
 
