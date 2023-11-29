@@ -45,7 +45,7 @@ Below are the materials from this course.
 
 [Github Repo:](https://github.com/bvasherchan/Topic_Modeling)
 
-This repository is my complete implementation for MSBA ALGORITHMS FOR BUSINESS DECISIONS Class Project.
+This repository is my complete implementation for MSBA Algorithm For Business Decisions Class Project.
 
 In this project I used ```Penalized Regression and Topic models``` to find the predictors that have significant influence on the concession sales and suggest ways in which MovieMagic can increase the spending on concessions.
 
