@@ -16,13 +16,13 @@ Below are the materials from this course.
 # XGBoost Regression Modeling: Grocery Store Chain
 **ML - MSBA Project**
 
-[Github Repo:](https://bvasherchan.github.io/XGBoost/)
+[Github Repo:](https://github.com/bvasherchan/XGBoost)
 
 This repository is my complete implementation for MSBA Machine Learning Class Project.
 
 In this project I used ```XGBoost and Logistic Regression Classifier models``` to predict the probability of customer buying Minute Maid (MM) over Citrus Hill (CH) Orange Juice.
 
 Below are the materials from this course.
-1. [Prject Document](https://github.com/bvasherchan/bvasherchan/blob/main/Business%20Problem%20Statement.docx)https://github.com/bvasherchan/bvasherchan/blob/main/Business%20Problem%20Statement.docx)
+1. [Prject Document](https://github.com/bvasherchan/bvasherchan/blob/main/Final%20Project%20-%20MKTG%206620%20Final.docx)
 
 
