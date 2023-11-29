@@ -27,3 +27,17 @@ Below are the materials from this course.
 2. [Project Document](https://github.com/bvasherchan/bvasherchan/blob/main/Final%20Project%20-%20MKTG%206620%20Final.docx)
 
 
+# Random Forest and Naive Bayes Text Classification Model for Ecommerce products
+**NLP - MSBA Project**
+
+[Github Repo:](https://github.com/bvasherchan/NLP)
+
+This repository is my complete implementation for MSBA Text Analytics Class Project.
+
+In this project I used ```Random Forest and Naive Bayes Text Classification models``` to accurately classify a product into one the existing labels based on the product description. I will test out two models in this project - Naïve Bayes and Random Forest.
+
+Below are the materials from this course.
+1. [R Code](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20Project.Rmd)
+2. [Project Document](https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)https://github.com/bvasherchan/NLP/blob/main/Text%20Analytics%20-%20Project.docx)
+
+
