@@ -1,7 +1,7 @@
 # Prophet Time Series Rolling Forecast Model: Maverik
 **Capstone Final MSBA - 2023**
 
-[Github Repo:](https://bvasherchan.github.io/capstone_repo/)
+[Github Repo:](https://github.com/bvasherchan/ProphetTimeSeriesModel)
 
 This repository is my group's complete implementation for MSBA Capstone Final Project.
 
@@ -9,13 +9,13 @@ In this project we used ```Prophet``` to create a rolling window forecast model 
 
 Below are the materials from this course.
 
-1. [Business Problem Statement](https://github.com/bvasherchan/bvasherchan/blob/main/Business%20Problem%20Statement.docx)
-2. [Presentation Slides](https://github.com/bvasherchan/bvasherchan/blob/main/IS%206812%20-%20Capstone%20Presentation%20PZ%20-%204.8.23.pptx)
+1. [Business Problem Statement](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverick_%20Business%20Problem%20Statement.docx)
+2. [Presentation Slides](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverik%20Revenue%20Forecast.pptx)
 
 # Random Forest Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
 
-[Github Repo:](https://bvasherchan.github.io/capstone_repo/)
+[Github Repo:](https://github.com/bvasherchan/Home_Credit_Loan)
 
 This repository is my complete implementation for MSBA Capstone 1 Project.
 
