@@ -1,3 +1,17 @@
+# Prophet Time Series Rolling Forecast Model: Maverik
+**Capstone Final MSBA - 2023**
+
+[Github Repo:](https://bvasherchan.github.io/capstone_repo/)
+
+This repository is my group's complete implementation for MSBA Capstone Final Project.
+
+In this project we used ```Prophet``` to create a rolling window forecast model that produces daily predictions for a given horizon period (365 days). This model takes into account new sales data, and re-trains the model to produce a more accurate prediction every day.
+
+Below are the materials from this course.
+
+1. [Business Problem Statement](https://github.com/bvasherchan/bvasherchan/blob/main/Business%20Problem%20Statement.docx)
+2. [Presentation Slides](https://github.com/bvasherchan/bvasherchan/blob/main/IS%206812%20-%20Capstone%20Presentation%20PZ%20-%204.8.23.pptx)
+
 # Random Forest Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
 
