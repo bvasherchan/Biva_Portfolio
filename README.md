@@ -10,7 +10,8 @@ In this project we used ```Prophet``` to create a rolling window forecast model 
 Below are the materials from this course.
 
 1. [Business Problem Statement](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverick_%20Business%20Problem%20Statement.docx)
-2. [Presentation Slides](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverik%20Revenue%20Forecast.pptx)
+2. [Modeling Notebook](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/ProphetModel.ipynb)
+3. [Presentation Slides](https://github.com/bvasherchan/ProphetTimeSeriesModel/blob/main/Maverik%20Revenue%20Forecast.pptx)
 
 # Random Forest Classfication Modeling: Home Credit Default Risk
 **Capstone MSBA - 2023**
